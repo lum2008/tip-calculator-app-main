@@ -1,5 +1,3 @@
-// window.onload = (event) => {
-// };
 const billAmount = document.getElementById("billAmount");
 const customTipAmount = document.getElementById("customTipAmount");
 const numOfPeople = document.getElementById("numOfPeople");
